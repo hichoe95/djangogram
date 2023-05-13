@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=instagram_django
+POSTGRES_USER=BLhEZfEHMnNUerOPZHveLoXgtSbNPziR
+POSTGRES_PASSWORD=GS0BcruK1L3Yf6GHWpAggCKyZmmqJ7pruQ8dqeKJqmp9eUJEx8D9EXzOBI7aeVED
